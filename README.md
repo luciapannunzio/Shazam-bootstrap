@@ -28,9 +28,7 @@
 
 
 **About Project**
- - Description
-*Shazam-page* Create a webpage using Html/Css/Bootstrap to recreate a Shazam web-page.
-
+ - Description *Shazam-clone* Create a webpage using Html/Css/Bootstrap to recreate a Shazam landing page. 
 * * *
 
 
